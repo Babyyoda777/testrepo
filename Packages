@@ -1,6 +1,6 @@
 Package: com.breadworks.fluidity
 Version: 0.1.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64-rootless
 Maintainer: Kieran Wilson
 Filename: debs/Fluidity.deb
 Size: 258862
